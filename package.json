@@ -1,0 +1,22 @@
+{
+  "name": "instafeed",
+  "version": "2.0.0",
+  "description": "Instafeed is an easy-to-use JavaScript library to add photos and more from your Instagram news feed to your website.",
+  "main": "lib/instafeed.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: No test specified.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackCICADA/Instafeed.git"
+  },
+  "author": "blackCICADA <contact@blackcicada.com> (https://www.blackcicada.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/blackCICADA/Instafeed/issues"
+  },
+  "homepage": "https://github.com/blackCICADA/Instafeed#readme"
+}
